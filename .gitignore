@@ -1,2 +1,3 @@
 .streamlit/*
 proj-venv/*
+__pycache__/*
