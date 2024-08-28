@@ -50,6 +50,16 @@
     streamlit run app.py
     ```
 
-### Deploying the app
+### Deploying your app on Streamlit
+
+#### Note: To Deploy your application through github you need to go to settings in Streamlit and Authorize it to access the private repos.
+
+1. Click on `Creat app`
+2. Answer do you already have an app?
+3. Switch to `Paste Github Url`
+4. Paste the `app.py` url from github.
+5. Give a name to your app url.
+6. Got to `Advanced Settings`, add your `./streamlit/secrets.toml` content.
+7. Hit `Deploy`
 
 
